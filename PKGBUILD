@@ -24,7 +24,7 @@ checkdepends=(
   'python-typeguard'
 )
 source=("git+$url.git#tag=v$pkgver")
-b2sums=('SKIP')
+b2sums=('e5bbc954348a78aeea4faeb5c5da8d4c2c14ae3c4079862ab2485275a1ffcc29f05fef1883336c1a05d3b46ec7a9c0742f0d387cb9b51dca8b931877f8ba7995')
 
 build() {
   cd $_name
