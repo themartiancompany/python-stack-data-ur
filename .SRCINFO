@@ -1,7 +1,7 @@
 pkgbase = python-stack-data
 	pkgdesc = Extract data from python stack frames and tracebacks for informative displays
 	pkgver = 0.6.3
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/alexmojaki/stack_data
 	arch = any
 	license = MIT
