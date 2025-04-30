@@ -45,6 +45,7 @@ _pkgdesc=(
   'frames and tracebacks for'
   'informative displays'
 )
+pkgdesc="${_pkgdesc[*]}"
 arch=(
   'any'
 )
